@@ -6,4 +6,4 @@
 
 | Ветка | Поток |
 |:------|:------|
-| [`mipt_26f`](https://github.com/Dustin-RS/LLM_MIPT_fall_2026/tree/mipt_26f) | МФТИ, осень 2026 |
+| [`mipt_26f`](https://github.com/Dustin-RS/LLM_MIPT/tree/mipt_26f) | МФТИ, осень 2026 |
