@@ -1,0 +1,2 @@
+{"id":"demo_1","answer_ids":["A","C"],"abstain":false,"rationale":"По b_demo_1 функция голоморфна всюду и f′(z)=2z, откуда f′(1)=2.","citations":["b_demo_1"]}
+{"id":"demo_2","answer_ids":[],"abstain":true,"rationale":"В корпусе нет сведений о времени вычислительного эксперимента.","citations":[]}

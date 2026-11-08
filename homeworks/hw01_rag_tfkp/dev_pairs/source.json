@@ -1,0 +1,13 @@
+{
+  "title": "Лекции по теории функций комплексного переменного",
+  "authors": [
+    "В. В. Горяйнов",
+    "Е. С. Половинкин"
+  ],
+  "year": 2025,
+  "pdf_filename": "Л_ТФКП_Горяйнов_Половинкин_2025.pdf",
+  "sha256": "629f4b668ff43abf2a6e621aefd0f50e165ce8e88c52c05769149e1267d033ec",
+  "pages": 147,
+  "reference_numbering": "1-based PDF pages",
+  "model_evaluation": "not_run"
+}

@@ -1,0 +1,2 @@
+{"id":"demo_1","category":"application","answer_ids":["A","C"],"abstain":false,"evidence_sets":[["b_demo_1"]],"rationale":"В первом блоке утверждаются голоморфность и f′(z)=2z. Подстановка z=1 даёт 2."}
+{"id":"demo_2","category":"insufficient","answer_ids":[],"abstain":true,"evidence_sets":[],"rationale":"В мини-корпусе нет описания эксперимента или его времени; математическое определение функции этого времени не определяет."}

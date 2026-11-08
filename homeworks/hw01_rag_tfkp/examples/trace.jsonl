@@ -1,0 +1,2 @@
+{"id":"demo_1","llm_calls":1,"input_tokens":1000,"output_tokens":100,"elapsed_ms":1200,"retrieved_block_ids":["b_demo_1"]}
+{"id":"demo_2","llm_calls":1,"input_tokens":1000,"output_tokens":100,"elapsed_ms":1200,"retrieved_block_ids":["b_demo_1","b_demo_2"]}
