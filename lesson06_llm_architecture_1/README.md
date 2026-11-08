@@ -7,7 +7,7 @@
 [Слайды (pdf)](llm_architecture_1_slides.pdf) · [pptx](llm_architecture_1_slides.pptx)
 
 * От текста до работающего decoder: токены и embeddings, self-attention и порядок, sinusoidal и RoPE, encoder vs decoder, современный блок (residual, RMSNorm, SwiGLU, multi-head), обучение и генерация маленькой языковой модели:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT_fall_2026/blob/mipt_26f/lesson06_llm_architecture_1/llm_architecture_1.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT/blob/mipt_26f/lesson06_llm_architecture_1/llm_architecture_1.ipynb)
 
 Работает на CPU, нужны только `torch`, `numpy`, `matplotlib`. Все данные создаются внутри ноутбука.
 

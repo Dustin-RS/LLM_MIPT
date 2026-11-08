@@ -9,18 +9,18 @@
 [Слайды (pdf)](part1_intro/rag_intro_slides.pdf) · [pptx](part1_intro/rag_intro_slides.pptx)
 
 * Введение в RAG: меры близости, sentence embeddings, векторный поиск и векторные БД, первый RAG-пайплайн на LangChain:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT_fall_2026/blob/mipt_26f/lesson04_rag/part1_intro/rag_intro.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT/blob/mipt_26f/lesson04_rag/part1_intro/rag_intro.ipynb)
 
 ## Часть 2. Компоненты RAG и продвинутые техники
 
 [Слайды (pdf)](part2_components/rag_part2_slides.pdf) · [pptx](part2_components/rag_part2_slides.pptx) · [Короткий тест](part2_components/rag_part2_quiz.md)
 
 * Демонстрация на паре: документ и его происхождение, чанкинг и overlap, retriever, контекст с источниками, проверка поиска отдельно от ответа:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT_fall_2026/blob/mipt_26f/lesson04_rag/part2_components/rag_part2_demo.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT/blob/mipt_26f/lesson04_rag/part2_components/rag_part2_demo.ipynb)
 * Компоненты RAG: document loaders, text splitters, embedding-модели, vector stores, retrievers:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT_fall_2026/blob/mipt_26f/lesson04_rag/part2_components/rag_components.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT/blob/mipt_26f/lesson04_rag/part2_components/rag_components.ipynb)
 * Продвинутые техники: сжатие промптов, Corrective RAG, Self-RAG, Adaptive RAG:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT_fall_2026/blob/mipt_26f/lesson04_rag/part2_components/advanced_rag.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT/blob/mipt_26f/lesson04_rag/part2_components/advanced_rag.ipynb)
 
 Файлы `facebook_chat.json`, `fake-content.html`, `layout-parser-paper.pdf`, `mlb_teams_2012.csv` — примеры документов для загрузчиков. Ноутбук `rag_components.ipynb` при запуске сам скачивает их из репозитория LangChain, так что в Colab ничего загружать не нужно.
 

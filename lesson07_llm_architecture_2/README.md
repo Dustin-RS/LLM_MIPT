@@ -7,7 +7,7 @@
 [Слайды (pdf)](llm_architecture_2_slides.pdf) · [pptx](llm_architecture_2_slides.pptx)
 
 * Стоимость attention, генерация и KV-cache, MQA/GQA/MLA, sliding window и sparse attention, архитектура vs реализация, линейное внимание, SSM и Mamba, разбор DeepSeek-V3 и Qwen3.8-Flash-Next:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT_fall_2026/blob/mipt_26f/lesson07_llm_architecture_2/llm_architecture_2.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT/blob/mipt_26f/lesson07_llm_architecture_2/llm_architecture_2.ipynb)
 
 Работает на CPU, GPU и API-ключи не нужны.
 

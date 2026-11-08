@@ -5,7 +5,7 @@
 ## Материалы
 
 * Evals для RAG и агентных систем на MuSiQue: базовый RAG → улучшения (RRF, HyDE, multi-query, агентный поиск) → метрики retrieval и ответа → локализация ошибок → абляции:
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT_fall_2026/blob/mipt_26f/lesson05_evals/rag_evals_musique.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dustin-RS/LLM_MIPT/blob/mipt_26f/lesson05_evals/rag_evals_musique.ipynb)
 
 **Запуск.** Ноутбук ожидает рядом с собой папку `data/` с файлами `musique_corpus.jsonl`, `musique_dev15.jsonl` и `source_support_audit.jsonl`. По умолчанию `RAG_MODE=live`: нужны реальные embeddings и LLM через [Polza.ai](https://polza.ai/docs/gaidy/chat-completions), ключ — в `POLZA_API_KEY`. `RAG_MODE=offline` прогоняет весь пайплайн без API: вместо embeddings — TF-IDF, вместо LLM — простые эвристики. Этот режим проверяет код, а не качество модели.
 
