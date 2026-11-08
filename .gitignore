@@ -1,0 +1,29 @@
+# Материалы для преподавателей: не публикуются
+_private/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Секреты
+.env
+*.env
+
+# Артефакты запуска ноутбуков (lesson05_evals и др.)
+results/
+cache/
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Временные файлы Office
+~$*
